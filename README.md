@@ -10,6 +10,8 @@ National Institute Of Technology,Silchar
 
 FARUK ABDULLA(2012070)
 
+Questions:
+
 Write a C compiler to check whether a given number is a valid floating point number or not. Write for all possible all test cases. Example: input: 2.0 output: valid input: 1. output: invalid
 
 Write a C program to check whether a given email is valid or not. Rules of email ID can be refer to the link https://en.wikipedia.org/wiki/Email_address
