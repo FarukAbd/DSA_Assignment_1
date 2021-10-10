@@ -8,7 +8,7 @@ Department of Computer Science and Engineering
 
 National Institute Of Technology,Silchar
 
-Faruk Abdulla(2012070)
+FARUK ABDULLA(2012070)
 
 Write a C compiler to check whether a given number is a valid floating point number or not. Write for all possible all test cases. Example: input: 2.0 output: valid input: 1. output: invalid
 
